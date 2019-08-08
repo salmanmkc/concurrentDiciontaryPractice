@@ -23,6 +23,7 @@ namespace leetCodeStuffPracticingConcurrentDictionary
                 sb.Append(c);
             }
             Console.WriteLine(sb.ToString());
+            Console.ReadKey():
         }
     }
 }
